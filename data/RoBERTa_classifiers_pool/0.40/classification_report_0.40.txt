@@ -1,0 +1,23 @@
+分类报告 - 工作表: 0.40
+========
+
+              precision    recall  f1-score   support
+
+           0     0.7932    0.7456    0.7687       283
+           1     0.4609    0.6020    0.5221       196
+           2     0.9128    0.8327    0.8709       490
+
+    accuracy                         0.7606       969
+   macro avg     0.7223    0.7268    0.7206       969
+weighted avg     0.7865    0.7606    0.7705       969
+
+准确率 (Accuracy): 0.7606
+加权F1 (Weighted F1): 0.7705
+宏平均F1 (Macro F1): 0.7206
+平衡准确率 (Balanced Accuracy): 0.7268
+加权准确率 (weighted_precision): 0.7865
+加权召回率 (weighted_recall): 0.7606
+加权F1 (weighted_f1): 0.7705
+宏准确率 (macro_precision): 0.7223
+宏召回率 (macro_recall): 0.7268
+宏F1 (macro_f1): 0.7206
