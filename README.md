@@ -1,5 +1,3 @@
-# OMEGA
-
 This repository provides selected data and code used in our study on electric vehicle (EV) defect risk management.
 
 ## Contents
